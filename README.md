@@ -161,6 +161,6 @@
 
 ---
 
-[Telegram群组](t.me/soul_frog)
+[Telegram群组](https://t.me/soul_frog)
 
 ---
