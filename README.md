@@ -1,8 +1,4 @@
-# SoulFrog
-
----
-
-### SoulFrog是什么？
+### SoulFrog
 开源免费的xposed模块[项目地址](https://github.com/xmnh/SoulFrog)仅供学习交流
 
 呱呱呱，通杀百分之八十的广告，以及vip功能。
@@ -13,6 +9,8 @@
 
 不定期更新，呱🐸
 
+<a href="https://t.me/soul_frog"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-频道-blue.svg?logo=telegram"></a>
+[![QQ](https://img.shields.io/badge/QQ群-764084418-green?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAGDUExURUxpcf///v///////////////////v////////////SVlP////////////////////////WdnfepqfnV1QAAAP///////wMDA/7///////39/fv7+/ggH/+6CeYMDAgHBv/8/BcXFuwhIekcHB8fH/3y2KSlp9jY2OkVFeYfHvmuBvPz8zo6OWBfX7y8u/Dv7zIyM1JTVPf39+Dh4I2MjA8QEuomJv+goP///C8nJFgQDf//4LS4uEtLTEFAP3x7e8vLyxgTAVxCA044AeLi4m5ubvi8u/7498HCw0ZGRcTS0u4uLp4WFSclIf+/DoWFhBMFAOXm6kAvBHJWBJycnNPT0+3s7PahoPrt7eUBAe9lZfjExNo6OuQZGYAREP//7a6vspxxBi4iBP747PrBP+2uCzwJCCYeAR0CBb+LCGhsdcbFxfzm5v78/OdLS/Xj4pWVldIZGGhKSvzjqvq8LWJYO8kdHHUSEPzRcbWDCJOIb3FxcNGUCM2YCWVJBva1DRYUDqKoF+8AAAAadFJOUwBg89ztJGID+dj+k5KRISKU/v7+///////+gI5o4QAAAnVJREFUOMtdkwV3GzEMgF1m2Ca9iy9Z7tIwU9uFcaWVmZm7dcz022f5fFk3vcQnW99Jlk5irIcND3T0IonTSavu5PTo7RgYFkbxa2tHeaLriNFgcAuRS5BjexsR3cg5ATo6A2WPBhOx8SQSQcfdjHV1qvcxGwMlvgQqH51dbLBl94Fm2TXQSjYxyPosALECmlEtAywu+wA8z+Uxxz6m7o8BMKCKSR/UsCTUuOUCexkqiQnPtUAq7Sn9SHgAJrIiKokF6LhJoQOb1YoRxBrpG8oFUxE2QNPAFwwA3K2WSY//B0xRCitrzcbv5lpdpAEpdXkbSAPUfz1VcrkmapGxCPsOcyLJxm2EzJGf63WRaPJf4L2sUr25vt64ltXK7zwAOO7Mv1s4KlzdGJqm3VwVvix8Du2j2QJM3HaPuYSMhYVYmnvvAYCO1y5X6DAc9o6RhMOHIZdr8o2MwWQOsyuFo4N5r9cbcgsJeecPFgor47ISTFXBgNIz92Rob7v/0ePpJzNZA0QlVAiOmUUBvBCAu18G5rjlEVlt0udg5OAl1VYBM6Zp3mPUI16RMSQwDgYBu95d20OSgHQLiEPMBye4Pz39Cq32zBrGHOR1sWO0rUBwDpbV55O3ToiGSBlRG0i/xWWo4L1pcgVUoYy1mASo5TJOXPVAwnZh7zKcWo6aluvUk3kxDk5dF39xqSkxR1w27RABFOc7pIKkcYzG4dOMg0vDkDU4OfRfLN1ea+nA7OzJ3YRxuvTxgz04cvRy+DUimuVb42wxf9Y8vVyKRC5MrsvRs4f33O/3F4vHudxxsSjU87/D28NGRtX4OxwOsei00viPjgjjH7pOhayjJoj/AAAAAElFTkSuQmCC)](https://qm.qq.com/cgi-bin/qm/qr?k=AoE_pLTDr_3yHiyB0pxXDoNVM6GCbEje&jump_from=webapi&authKey=I7KCZ95RFL0rcwaexNygkYkVIEH4Ovx7nIAffIwsvNW8eMzVMhbxiqeSd11Tw5kw)
 ---
 
 ### 目前支持功能
@@ -131,7 +129,7 @@
      <tr>
       <td>TapTap</td>
       <td>com.taptap</td>
-      <td>TapTap游戏（本体+DLC）买断制游戏（版本通杀）</td>
+      <td>👇TapTap游戏（本体+DLC）买断制游戏（版本通杀）</td>
    </tr>
   <tr>
       <td>鬼谷八荒</td>
@@ -151,16 +149,20 @@
 </table>
 
 
-### 交流
+### 捐赠
+如果该项目对您有帮助，请赞助我喝杯咖啡☕，感谢支持
+<table>
+   <tr>
+      <td align=center>支付宝</td>
+      <td align=center>微信</td>
+   </tr>
+   <tr>
+      <td>
+         <img src="https://origin.picgo.net/2025/11/27/ali2668434b194b6ff0.jpg" width=260 >
+      </td>
+      <td>
+         <img src="https://origin.picgo.net/2025/11/27/vx7a68c65fbae49824.png" width=260 >
+      </td>
+   </tr>
+</table>
 
----
-
-***加入SoulFrog可优先获取最新版本，有问题反馈。***
-
-[![QQ](https://img.shields.io/badge/QQ群-764084418-green?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAGDUExURUxpcf///v///////////////////v////////////SVlP////////////////////////WdnfepqfnV1QAAAP///////wMDA/7///////39/fv7+/ggH/+6CeYMDAgHBv/8/BcXFuwhIekcHB8fH/3y2KSlp9jY2OkVFeYfHvmuBvPz8zo6OWBfX7y8u/Dv7zIyM1JTVPf39+Dh4I2MjA8QEuomJv+goP///C8nJFgQDf//4LS4uEtLTEFAP3x7e8vLyxgTAVxCA044AeLi4m5ubvi8u/7498HCw0ZGRcTS0u4uLp4WFSclIf+/DoWFhBMFAOXm6kAvBHJWBJycnNPT0+3s7PahoPrt7eUBAe9lZfjExNo6OuQZGYAREP//7a6vspxxBi4iBP747PrBP+2uCzwJCCYeAR0CBb+LCGhsdcbFxfzm5v78/OdLS/Xj4pWVldIZGGhKSvzjqvq8LWJYO8kdHHUSEPzRcbWDCJOIb3FxcNGUCM2YCWVJBva1DRYUDqKoF+8AAAAadFJOUwBg89ztJGID+dj+k5KRISKU/v7+///////+gI5o4QAAAnVJREFUOMtdkwV3GzEMgF1m2Ca9iy9Z7tIwU9uFcaWVmZm7dcz022f5fFk3vcQnW99Jlk5irIcND3T0IonTSavu5PTo7RgYFkbxa2tHeaLriNFgcAuRS5BjexsR3cg5ATo6A2WPBhOx8SQSQcfdjHV1qvcxGwMlvgQqH51dbLBl94Fm2TXQSjYxyPosALECmlEtAywu+wA8z+Uxxz6m7o8BMKCKSR/UsCTUuOUCexkqiQnPtUAq7Sn9SHgAJrIiKokF6LhJoQOb1YoRxBrpG8oFUxE2QNPAFwwA3K2WSY//B0xRCitrzcbv5lpdpAEpdXkbSAPUfz1VcrkmapGxCPsOcyLJxm2EzJGf63WRaPJf4L2sUr25vt64ltXK7zwAOO7Mv1s4KlzdGJqm3VwVvix8Du2j2QJM3HaPuYSMhYVYmnvvAYCO1y5X6DAc9o6RhMOHIZdr8o2MwWQOsyuFo4N5r9cbcgsJeecPFgor47ISTFXBgNIz92Rob7v/0ePpJzNZA0QlVAiOmUUBvBCAu18G5rjlEVlt0udg5OAl1VYBM6Zp3mPUI16RMSQwDgYBu95d20OSgHQLiEPMBye4Pz39Cq32zBrGHOR1sWO0rUBwDpbV55O3ToiGSBlRG0i/xWWo4L1pcgVUoYy1mASo5TJOXPVAwnZh7zKcWo6aluvUk3kxDk5dF39xqSkxR1w27RABFOc7pIKkcYzG4dOMg0vDkDU4OfRfLN1ea+nA7OzJ3YRxuvTxgz04cvRy+DUimuVb42wxf9Y8vVyKRC5MrsvRs4f33O/3F4vHudxxsSjU87/D28NGRtX4OxwOsei00viPjgjjH7pOhayjJoj/AAAAAElFTkSuQmCC)](https://qm.qq.com/cgi-bin/qm/qr?k=AoE_pLTDr_3yHiyB0pxXDoNVM6GCbEje&jump_from=webapi&authKey=I7KCZ95RFL0rcwaexNygkYkVIEH4Ovx7nIAffIwsvNW8eMzVMhbxiqeSd11Tw5kw)
-
----
-
-[Telegram群组](https://t.me/soul_frog)
-
----
