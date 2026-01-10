@@ -24,6 +24,11 @@
       <th>effect</th>
    </tr>
    <tr>
+      <td>QQ分享</td>
+      <td></td>
+      <td>分享直接成功无需跳转QQ</td>
+   </tr>
+   <tr>
       <td>FakeLocation</td>
       <td>com.lerist.fakelocation</td>
       <td>会员功能</td>
