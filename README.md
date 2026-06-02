@@ -1,5 +1,5 @@
 ### SoulFrog
-开源免费的xposed模块[项目地址](https://github.com/xmnh/SoulFrog)仅供学习交流
+开源免费的xposed模块[SoulFrog项目地址](https://github.com/xmnh/SoulFrog)仅供学习交流
 
 以精简和性能为原则，不加固不混淆不加密，放心食用。
 
@@ -23,11 +23,6 @@
       <td>QQ分享</td>
       <td>分享直接成功无需跳转QQ</td>
       <td></td>
-   </tr>
-   <tr>
-      <td>FakeLocation</td>
-      <td>会员功能</td>
-      <td>com.lerist.fakelocation</td>
    </tr>
    <tr>
       <td>爱剪辑</td>
@@ -75,11 +70,6 @@
       <td>com.lixiangdong.songcutter</td>
    </tr>
    <tr>
-      <td>小熊录屏</td>
-      <td>会员功能</td>
-      <td>com.duapps.recorder</td>
-   </tr>
-   <tr>
       <td>滴答清单</td>
       <td>会员功能</td>
       <td>cn.ticktick.task</td>
@@ -110,11 +100,6 @@
       <td>com.apkpure.aegon</td>
    </tr>
    <tr>
-      <td>逍遥launcher2</td>
-      <td>去广告</td>
-      <td>com.microvirt.launcher2</td>
-   </tr>
-   <tr>
       <td>TikTok</td>
       <td>地区检测</td>
       <td>com.zhiliaoapp.musically</td>
@@ -125,14 +110,9 @@
       <td>com.originatorkids.EndlessReader</td>
    </tr>
    <tr>
-      <td>番茄免费小说</td>
-      <td>去广告</td>
-      <td>com.dragon.read</td>
-   </tr>
-   <tr>
       <td>好游快爆游戏</td>
       <td>（本体验证+DLC）买断制游戏（版本通杀）</td>
-      <td>com.taptap</td>
+      <td></td>
    </tr>
    <tr>
       <td>TapTap游戏</td>
@@ -141,23 +121,28 @@
    </tr>
    <tr>
       <td>鬼谷八荒</td>
-      <td>（本体验证+DLC）买断制游戏通杀</td>
+      <td>（本体验证+DLC）</td>
       <td>com.guigugame.guigubahuang</td>
    </tr>
    <tr>
       <td>大侠立志传</td>
-      <td>（本体验证+DLC）买断制游戏通杀</td>
+      <td>（本体验证+DLC）</td>
       <td>com.xd.dxlzz.taptap</td>
    </tr>
    <tr>
       <td>破门而入</td>
-      <td>（本体验证+DLC）买断制游戏通杀</td>
+      <td>（本体验证+DLC）</td>
       <td>com.khg.actionsquad.gamet</td>
    </tr>
    <tr>
       <td>打造世界</td>
-      <td>（本体验证+DLC）买断制游戏通杀</td>
+      <td>（本体验证+DLC）</td>
       <td>com.dekovir.CraftTheWorld3839</td>
+   </tr>
+   <tr>
+      <td>潜水员戴夫</td>
+      <td>（本体验证+DLC）</td>
+      <td>com.xd.dave.tap.cn</td>
    </tr>
 </table>
 
