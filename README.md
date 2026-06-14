@@ -80,6 +80,11 @@
       <td>com.qiyi.video</td>
    </tr>
    <tr>
+      <td>腾讯视频</td>
+      <td>去水印</td>
+      <td>com.tencent.qqlive</td>
+   </tr>
+   <tr>
       <td>人人视频</td>
       <td>会员功能</td>
       <td>com.example.pptv</td>
