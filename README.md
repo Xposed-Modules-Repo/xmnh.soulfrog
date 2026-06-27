@@ -1,9 +1,13 @@
 ### SoulFrog
-开源免费的xposed模块[SoulFrog项目地址](https://github.com/xmnh/SoulFrog)仅供学习交流
+xposed版本为master分支，libxposed版本为libxposed分支
 
-以精简和性能为原则，不加固不混淆不加密，放心食用。
+开源免费的xposed模块[SoulFrog项目地址](https://github.com/xmnh/SoulFrog)，仅供学习交流
+
+以精简和性能为原则，不加固不混淆不加密。
 
 不定期更新，呱🐸
+
+如果该项目对您有帮助，请赞助我，您的赞赏便是我更新的动力，感谢支持
 
 <a href="https://t.me/soul_frog"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-频道-blue.svg?logo=telegram"></a>
 ---
