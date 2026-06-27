@@ -7,7 +7,7 @@ xposed版本为master分支，libxposed版本为libxposed分支
 
 不定期更新，呱🐸
 
-如果该项目对您有帮助，请赞助我，您的赞赏便是我更新的动力，感谢支持
+如果该项目对您有帮助，请赞助我(免费的Star)，您的赞赏便是我更新的动力，感谢支持
 
 <a href="https://t.me/soul_frog"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-频道-blue.svg?logo=telegram"></a>
 ---
