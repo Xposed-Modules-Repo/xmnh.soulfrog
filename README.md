@@ -24,6 +24,16 @@ xposed版本为master分支，libxposed版本为libxposed分支
       <th>packageName</th>
    </tr>
    <tr>
+      <td>小黑盒</td>
+      <td>每日自动完成任务</td>
+      <td>com.max.xiaoheihe</td>
+   </tr>
+   <tr>
+      <td>激励广告</td>
+      <td>部分激励广告通杀(手动点击跳过领取奖励)</td>
+      <td></td>
+   </tr>
+   <tr>
       <td>QQ分享</td>
       <td>分享直接成功无需跳转QQ</td>
       <td></td>
