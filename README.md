@@ -31,7 +31,7 @@ xposed版本为master分支，libxposed版本为libxposed分支
    <tr>
       <td>激励广告</td>
       <td>部分激励广告通杀(手动点击跳过领取奖励)</td>
-      <td></td>
+      <td>例如biubiu加速器</td>
    </tr>
    <tr>
       <td>QQ分享</td>
@@ -44,9 +44,9 @@ xposed版本为master分支，libxposed版本为libxposed分支
       <td>com.shineyie.aijianji</td>
    </tr>
    <tr>
-      <td>JuiceSSH</td>
-      <td>高级功能</td>
-      <td>com.sonelli.juicessh</td>
+      <td>飒漫画</td>
+      <td>(使用会自动删除数据，请慎重使用)默认游客三天自动重置试用白金会员</td>
+      <td>com.comic.isaman</td>
    </tr>
    <tr>
       <td>神奇脑波</td>
@@ -54,44 +54,14 @@ xposed版本为master分支，libxposed版本为libxposed分支
       <td>imoblife.brainwavestus</td>
    </tr>
    <tr>
-      <td>Now冥想</td>
-      <td>会员功能（版本通杀）</td>
-      <td>com.imoblife.now</td>
-   </tr>
-   <tr>
       <td>ES文件浏览器</td>
       <td>会员功能（版本通杀）</td>
       <td>com.estrongs.android.pop</td>
    </tr>
    <tr>
-      <td>SdMaid</td>
-      <td>会员功能</td>
-      <td>eu.thedarken.sdm</td>
-   </tr>
-   <tr>
       <td>SdMaidSE</td>
       <td>会员功能（版本通杀）</td>
       <td>eu.darken.sdmse</td>
-   </tr>
-   <tr>
-      <td>塔罗牌占卜</td>
-      <td>会员功能</td>
-      <td>taluo.jumeng.com.tarot</td>
-   </tr>
-   <tr>
-      <td>音频剪辑大师</td>
-      <td>会员功能</td>
-      <td>com.lixiangdong.songcutter</td>
-   </tr>
-   <tr>
-      <td>滴答清单</td>
-      <td>会员功能</td>
-      <td>cn.ticktick.task</td>
-   </tr>
-   <tr>
-      <td>爱奇艺</td>
-      <td>去水印</td>
-      <td>com.qiyi.video</td>
    </tr>
    <tr>
       <td>腾讯视频</td>
@@ -102,21 +72,6 @@ xposed版本为master分支，libxposed版本为libxposed分支
       <td>人人视频</td>
       <td>会员功能</td>
       <td>com.example.pptv</td>
-   </tr>
-   <tr>
-      <td>ABC加速器</td>
-      <td>到期自动重置试用</td>
-      <td>com.zfast.xyz</td>
-   </tr>
-   <tr>
-      <td>快连加速器</td>
-      <td>到期自动重置试用</td>
-      <td>world.letsgo.booster.android.pro</td>
-   </tr>
-   <tr>
-      <td>APKPure</td>
-      <td>去广告</td>
-      <td>com.apkpure.aegon</td>
    </tr>
    <tr>
       <td>TikTok</td>
@@ -162,6 +117,57 @@ xposed版本为master分支，libxposed版本为libxposed分支
       <td>潜水员戴夫</td>
       <td>（本体验证+DLC）</td>
       <td>com.xd.dave.tap.cn</td>
+   </tr>
+   <!-- 已删除 -->
+   <tr>
+      <td><del>JuiceSSH</del></td>
+      <td><del>高级功能</del></td>
+      <td><del>com.sonelli.juicessh</del></td>
+   </tr>
+   <tr>
+      <td><del>Now冥想</del></td>
+      <td><del>会员功能（版本通杀）</del></td>
+      <td><del>com.imoblife.now</del></td>
+   </tr>
+   <tr>
+      <td><del>SdMaid</del></td>
+      <td><del>会员功能</del></td>
+      <td><del>eu.thedarken.sdm</del></td>
+   </tr>
+   <tr>
+      <td><del>塔罗牌占卜</del></td>
+      <td><del>会员功能</del></td>
+      <td><del>taluo.jumeng.com.tarot</del></td>
+   </tr>
+   <tr>
+      <td><del>音频剪辑大师</del></td>
+      <td><del>会员功能</del></td>
+      <td><del>com.lixiangdong.songcutter</del></td>
+   </tr>
+   <tr>
+      <td><del>滴答清单</del></td>
+      <td><del>会员功能</del></td>
+      <td><del>cn.ticktick.task</del></td>
+   </tr>
+   <tr>
+      <td><del>爱奇艺</del></td>
+      <td><del>去水印</del></td>
+      <td><del>com.qiyi.video</del></td>
+   </tr>
+   <tr>
+      <td><del>ABC加速器</del></td>
+      <td><del>到期自动重置试用</del></td>
+      <td><del>com.zfast.xyz</del></td>
+   </tr>
+   <tr>
+      <td><del>快连加速器</del></td>
+      <td><del>到期自动重置试用</del></td>
+      <td><del>world.letsgo.booster.android.pro</del></td>
+   </tr>
+   <tr>
+      <td><del>APKPure</del></td>
+      <td><del>去广告</del></td>
+      <td><del>com.apkpure.aegon</del></td>
    </tr>
 </table>
 
