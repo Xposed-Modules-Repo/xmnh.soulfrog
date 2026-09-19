@@ -24,6 +24,16 @@ xposed版本为master分支，libxposed版本为libxposed分支
       <th>packageName</th>
    </tr>
    <tr>
+      <td>支付宝</td>
+      <td>免跳转内购通杀(仅本地验证)</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>好游快爆</td>
+      <td>买断制下载(仅下载管理)</td>
+      <td></td>
+   </tr>
+   <tr>
       <td>小黑盒</td>
       <td>每日自动完成任务</td>
       <td>com.max.xiaoheihe</td>
