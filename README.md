@@ -189,7 +189,7 @@ xposed版本为master分支，libxposed版本为libxposed分支
    </tr>
    <tr>
       <td>
-         <img src="https://origin.picgo.net/2025/11/27/vx7a68c65fbae49824.png" width=260 >
+         <img src="donate.png" width=260 >
       </td>
    </tr>
 </table>
