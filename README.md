@@ -3,7 +3,7 @@
  **SoulFrog** 是一个开源、免费、不定期更新的 Xposed 模块项目，专注于 Android 应用功能扩展与技术研究。
  
 - ⚡ **精简高效**：以代码简洁和运行性能为优先。
-- 🆓 **开源免费**：开放源码，供学习与技术交流。
+- 🆓 **免费开源**：开放源码，供学习与技术交流。
 - 🐸 **持续迭代**：不定期更新，呱！
 
 <a href="https://t.me/soul_frog"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-频道-blue.svg?logo=telegram"></a>
@@ -28,11 +28,11 @@
 
 | 应用名称 | 功能说明 | 包名 |
 |:---|:---|:---|
-| 支付宝 | 免跳转内购通杀（仅本地验证） | — |
-| 好游快爆 | 买断制下载（仅下载管理） | — |
+| 支付宝 | 免跳转内购通杀（仅本地验证） | * |
+| 好游快爆 | 买断制下载（仅下载管理） | com.xmcy.hykb |
 | 小黑盒 | 每日自动完成任务 | `com.max.xiaoheihe` |
-| 激励广告 | 部分激励广告支持手动跳过并领取奖励 | 例如 BiuBiu 加速 |
-| QQ 分享 | 分享直接成功，无需跳转 QQ | — |
+| 激励广告 | 手动点击跳过后领取奖励 | * 例如 BiuBiu 加速 |
+| QQ 分享 | 分享直接成功，无需跳转 QQ | * |
 | 爱剪辑 | 会员功能 | `com.shineyie.aijianji` |
 | 飒漫画 | 默认游客三天自动重置试用白金会员 | `com.comic.isaman` |
 | 神奇脑波 | 会员功能（版本通杀） | `imoblife.brainwavestus` |
